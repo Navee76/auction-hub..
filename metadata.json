@@ -1,0 +1,6 @@
+{
+  "name": "AuctionHub – Online Auction Platform",
+  "description": "Full-featured online auction marketplace for listing products, placing interactive bids, tracking live countdowns, settlement, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
